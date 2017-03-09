@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dado</string>
+    <string name="strUsuario">Dado do Usuario:</string>
+    <string name="strPc">Dado do Pc:</string>
+    <string name="strRolar">Rolar</string>
+    <string name="strUGanha">Usuario Ganho!</string>
+    <string name="strPGanha">Pc Ganho!</string>
+    <string name="strEmpate">Empate!</string>
+</resources>
